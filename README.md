@@ -1,3 +1,32 @@
+# Next.js Clerk Authentication - User Authentication🔑
+
+## Project Description
+
+This is an example of a [Next.js 13](https://nextjs.org/) app that uses [Clerk](https://clerk.com/) for authentication and user management.
+
+With this project I intended to get more experience with app authentication and the creation of a login/sign-up architecture.
+
+## Concepts I improved on, by working on this project
+
+- Using Next.js app router
+- Protected routes
+- Authentication
+- Building a frontend UI
+- UI design with TailwindCSS 
+
+### Routes
+- /
+- /sign-in
+- /sign-up
+- /dashboard
+
+## Contact
+[![Personal Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://patricklemmer.dev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklemmer/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patrick_lemmer)
+
+________________________
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -26,9 +55,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
