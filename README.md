@@ -14,7 +14,7 @@ With this project I intended to get more experience with app authentication and 
 - Building a frontend UI
 - UI design with TailwindCSS 
 
-### Routes
+## Routes
 - /
 - /sign-in
 - /sign-up
