@@ -6,7 +6,7 @@ This is an example of a [Next.js 13](https://nextjs.org/) app that uses [Clerk](
 
 With this project I intended to get more experience with app authentication and the creation of a login/sign-up architecture.
 
-## Concepts I improved on, by working on this project
+## What I improved on, by working on this project
 
 - Using Next.js app router
 - Protected routes
